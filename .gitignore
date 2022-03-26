@@ -1,2 +1,7 @@
-# ignore node modules
-adopt-pet/node_modules
+node_modules
+.cache/
+dist/
+.env
+.DS_Store
+coverage/
+.vscode/
