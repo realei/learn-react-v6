@@ -32,3 +32,13 @@ Worth adding three things here:
 * We're going to both JS and JSX.
 
 ```
+
+### Parcel
+
+`npm run dev`
+
+```
+"scripts" {
+  "dev": "parcel src/index.html"
+}
+```
